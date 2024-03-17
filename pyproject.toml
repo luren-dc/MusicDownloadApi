@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "music-download-api"
+version = "0.1.0"
+description = "开箱即用的音乐下载工具。"
+authors = ["luren-dc <dluren.c@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Natural Language :: Chinese (Simplified)",
+    "License :: OSI Approved :: MIT License",
+    "Framework :: aiohttp",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: Implementation :: CPython",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+aiohttp = "^3.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
