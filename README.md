@@ -12,9 +12,17 @@
 > 本项目仅供学习使用，请尊重版权，请勿利用此项目从事商业行为!
 本项目基于：
 
-- [AIOHTTP](https://docs.aiohttp.org/)
+- [AioHttp](https://docs.aiohttp.org/)
 
 ## ✨功能
 TX:
-- 搜索功能 [x]
-- 下载功能 [X]
+- [x] 搜索功能 
+- [X] 下载功能 
+
+## 🗒️TODO
+
+- [ ] WEB端接口
+
+## Licence
+
+**[MIT License](https://github.com/luren-dc/MusicDownloadApi/blob/master/LICENSE)**
